@@ -1,3 +1,3 @@
-cd ..
-wget -qO- https://get.nextflow.io | bash -ic
+cd ~
+wget -qO- https://get.nextflow.io | bash -i
 chmod +x ./nextflow
