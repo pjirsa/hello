@@ -9,8 +9,8 @@ Devcontainer specs:
 - [Dockerfile](.devcontainer/Dockerfile)
 
 # Getting started
-- Create a new repo in Github using this [template](https://github.com/pjirsa/hello/generate).
-- Open the repo in Codespaces
+- Create a new repo in GitHub using this [template](https://github.com/pjirsa/hello/generate).
+- Open the repo in [Codespaces](../../codespaces)
 - Once Codespace is open, enter this into the terminal:
 `~/nextflow main.nf`
 
