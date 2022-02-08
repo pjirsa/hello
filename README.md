@@ -2,7 +2,11 @@
 
 A simple script showing the basic Hello World! example for the Nextflow framework.
 
-This fork includes a devcontainer config which will create a Github Codespace configured with Nextflow!
+This fork includes a devcontainer configuration which will create a GitHub Codespace for Nextflow development!
+
+Devcontainer specs:
+- [DevContainer config](.devcontainer/devcontainer.json)
+- [Dockerfile](.devcontainer/Dockerfile)
 
 # Getting started
 - Create a new repo in Github using this [template](https://github.com/pjirsa/hello/generate).
