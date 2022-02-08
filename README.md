@@ -5,7 +5,7 @@ A simple script showing the basic Hello World! example for the Nextflow framewor
 This fork includes a devcontainer config which will create a Github Codespace configured with Nextflow!
 
 # Getting started
-- Create a new repo in Github using this [template](./generate).
+- Create a new repo in Github using this [template](https://github.com/pjirsa/hello/generate).
 - Open the repo in Codespaces
 - Once Codespace is open, enter this into the terminal:
 `~/nextflow main.nf`
